@@ -1,0 +1,69 @@
+
+What is a web server?
+ 
+- Device or program that hosts websites. 
+
+What is a network?
+ 
+- Computers connected by physical means, cables, or wirelessly, wifi or bluetooth. 
+
+What is the internet? 
+ 
+- The internet is an infrastructure made up of computers (or hosts), routers, modems, servers (computers that host files, websites, etc.) and IPS. 
+
+What is an IP address?
+ 
+- It's an address made up of four numbers separated by dots that every computer connected to the network receives. The IP address is an Internet protocol used to 
+computers on the network. 
+
+What is a router?
+ 
+- It is a computer that is responsible for receiving information from computer A and sending it to B, without the risk of it being sent to computer C. Its function is to 
+is to take this message to its correct destination.
+
+What is an IPS?
+ 
+- They are companies that manage special interconnected routers and can also access other IPS routers in the infrastructure. 
+
+What are packets and how are they used to transfer data? 
+ 
+- When data is transferred between client and server, it is broken down into small pieces. Data is transferred in thousands of pieces, which can arrive at the same destination, or client, from different paths. Along the way, these chunks can be corrupted or lost, making them easier to replace. 
+
+What is a client?
+ 
+- A client is the computer requesting a website, for example.
+
+What is a server?
+
+ - A server answers this request and sends what has been requested. 
+
+What is a web page?
+
+ - A document that can be opened in any browser.
+
+What is a web browser?
+
+ - A web browser is a piece of software that displays websites. 
+
+What is a search engine?
+
+ - A service that helps you find sites on the web. 
+
+What is a DNS request?
+
+ - When the name of a website is typed into the browser 'google.com' the DNS (Domain system name) is responsible for finding the correct IP address for these websites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
